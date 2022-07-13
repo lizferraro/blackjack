@@ -1,0 +1,19 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: left;
+    background-image: url("images/pokerchips.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+p {
+    color: white;
+}
+
+#message-el {
+    font-style: italic;
+}

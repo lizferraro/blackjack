@@ -30,6 +30,17 @@ button {
     background-color: goldenrod;
     border: none;
     border-radius: 3px;
+    margin: 5px;
+}
+
+/* button {
+    color: #016f32;
+    font-weight: bold;
+    width: 150px;
+    background: goldenrod;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 4px;
     padding-top: 5px;
     padding-bottom: 5px;
-}
+} */

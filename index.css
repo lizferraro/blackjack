@@ -1,19 +1,35 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: left;
-    background-image: url("images/pokerchips.png");
+    text-align: center;
+    background-image: url("images/greenfelt.png");
     background-repeat: no-repeat;
     background-size: cover;
+    font-weight: bold;
 }
 
 h1 {
     color: goldenrod;
+    font-size: 8vw;
 }
 
 p {
     color: white;
+    font-size: 4vw;
 }
 
 #message-el {
     font-style: italic;
+}
+
+button {
+    color: #016f32;
+    font-weight: bold;
+    font-size: 4vw;
+    width: 36vw;
+    height: 8vw;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
